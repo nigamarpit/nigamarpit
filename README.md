@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on next big thing in space of GenAI
 - 🤔 I’m looking for help with nothing specific as of now 
 - 💬 Ask me about AWS technologies, building highly scalable distributed systems
-- 📫 How to reach me: arpit.wow@gmail.com
+- 📫 How to reach me: arpit.nigam@outlook.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am not very active on Github 😝
